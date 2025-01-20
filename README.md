@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ujjawal
 - 👀 I’m interested in web dev and app dev
-- 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on mtfg
 - 📫 How to reach me - ping this id
 
